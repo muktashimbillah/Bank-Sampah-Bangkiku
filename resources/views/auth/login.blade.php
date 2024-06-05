@@ -18,18 +18,20 @@
             <div class="col-lg-5 col-12">
                 <div id="auth-left">
                     <div class="auth-logo d-flex justify-content-center">
-                        <a href="/"><h1><u>ECM</u></h1></a>
+                        <a href="/">
+                            <h1><u>Admin</u></h1>
+                        </a>
                     </div>
                     <h2 class="text-center">Log in.</h2>
                     <form method="POST" action="{{ route('login') }}">
-                    @csrf
+                        @csrf
                         <div class="form-group position-relative has-icon-left mb-4">
                             <input id="email" type="email" class="form-control @error('email') is-invalid @enderror" name="email" value="{{ old('email') }}" required autocomplete="email" autofocus placeholder="Email">
 
                             @error('email')
-                                <span class="invalid-feedback" role="alert">
-                                    <strong>{{ $message }}</strong>
-                                </span>
+                            <span class="invalid-feedback" role="alert">
+                                <strong>{{ $message }}</strong>
+                            </span>
                             @enderror
 
                             <div class="form-control-icon">
@@ -39,9 +41,9 @@
                         <div class="form-group position-relative has-icon-left mb-4">
                             <input id="password" type="password" class="form-control @error('password') is-invalid @enderror" name="password" required autocomplete="current-password" placeholder="Password">
                             @error('password')
-                                <span class="invalid-feedback" role="alert">
-                                    <strong>{{ $message }}</strong>
-                                </span>
+                            <span class="invalid-feedback" role="alert">
+                                <strong>{{ $message }}</strong>
+                            </span>
                             @enderror
 
                             <div class="form-control-icon">
@@ -64,4 +66,5 @@
         </div>
     </div>
 </body>
+
 </html>

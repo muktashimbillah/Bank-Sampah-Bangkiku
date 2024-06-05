@@ -9,36 +9,48 @@
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingOne">
               <button class="accordion-button font-primary" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                Frequently asked questions 1
+                Apa itu Bank Sampah Bangkitku?
               </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
               <div class="accordion-body font-secondary">
-               Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas error nisi, odit saepe sit deleniti repudiandae itaque! Veritatis ab, nihil iste impedit dolor labore tempore optio esse id libero fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet cupiditate perspiciatis suscipit accusantium, voluptatem explicabo labore fuga, repellendus rem laudantium vero similique molestiae obcaecati. Accusantium, sint. Unde culpa temporibus eveniet!
+                Bank Sampah Bangkitku adalah inisiatif pengelolaan sampah berbasis masyarakat yang mengubah sampah menjadi produk bernilai guna. Kami berdiri pada 21 April 2014 dengan tujuan meningkatkan kesadaran dan partisipasi masyarakat dalam daur ulang sampah.
               </div>
             </div>
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
               <button class="accordion-button font-primary collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                Frequently asked questions 2
+                Bagaimana cara memesan produk?
               </button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
               <div class="accordion-body font-secondary">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas error nisi, odit saepe sit deleniti repudiandae itaque! Veritatis ab, nihil iste impedit dolor labore tempore optio esse id libero fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet cupiditate perspiciatis suscipit accusantium, voluptatem explicabo labore fuga, repellendus rem laudantium vero similique molestiae obcaecati. Accusantium, sint. Unde culpa temporibus eveniet!
+                Anda dapat memesan produk melalui website kami. Pilih produk yang Anda inginkan, tambahkan ke keranjang, dan ikuti petunjuk untuk menyelesaikan pembelian.
               </div>
             </div>
           </div>
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingThree">
               <button class="accordion-button font-primary collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                Frequently asked questions 3
+                Apakah saya bisa melacak pesanan saya?
               </button>
             </h2>
             <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
               <div class="accordion-body font-secondary">
-                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quas error nisi, odit saepe sit deleniti repudiandae itaque! Veritatis ab, nihil iste impedit dolor labore tempore optio esse id libero fugit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Eveniet cupiditate perspiciatis suscipit accusantium, voluptatem explicabo labore fuga, repellendus rem laudantium vero similique molestiae obcaecati. Accusantium, sint. Unde culpa temporibus eveniet!
+                Ya, setiap pesanan dilengkapi dengan nomor pelacakan yang akan kami kirimkan melalui email setelah pesanan Anda diproses. Anda dapat menggunakan nomor ini untuk memantau status pengiriman.
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button font-primary collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                Apa kebijakan pengembalian barang?
+              </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+              <div class="accordion-body font-secondary">
+                Anda dapat mengembalikan barang dalam waktu 14 hari setelah penerimaan jika tidak puas dengan produk tersebut. Barang harus dalam kondisi asli dan tidak digunakan. Hubungi layanan pelanggan kami untuk memulai proses pengembalian.
               </div>
             </div>
           </div>
